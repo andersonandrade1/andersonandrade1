@@ -1,0 +1,24 @@
+{
+  "name": "js-tdd-course",
+  "version": "1.0.0",
+  "description": "Biblioteca do curos de js TDD na prática",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/andersonandrade1/js-tdd-course.git"
+  },
+  "keywords": [
+    "JS",
+    "tdd",
+    "library"
+  ],
+  "author": "Anderson Andrade <andersonandrade1@live.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/andersonandrade1/js-tdd-course/issues"
+  },
+  "homepage": "https://github.com/andersonandrade1/js-tdd-course#readme"
+}
